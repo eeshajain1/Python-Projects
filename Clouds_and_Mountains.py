@@ -1,6 +1,8 @@
 #### ======= HW4 template ======= ####
 #Eesha Jain
-#78529929
+''' This program draws clouds and mountains and allows the user to draw a house, move the clouds
+and change the views (morning, noon, and evening) as well as adjust the speed of the clouds'''
+#grade on project: 100%
 
 from graphics import *
 from time import *
