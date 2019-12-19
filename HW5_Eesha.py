@@ -1,13 +1,17 @@
 # -*- coding: utf-8 -*-
 '''
 Eesha Jain
-#78529929
 
-
-Created on Mon Nov 11 14:58:36 2019
-
-@author: Shima Nabiee
+partial code: Shimaa Nabie
+this program is a game in which when the user presses the start button
+baloons and a bug will appear
+the user should click on the balloons, and will either gain or lose money as a result. 
+the bet amount allows you to earn 5 times that amount if the bug is hit 
+Some balloons contain negative amounts of money, and others positive amounts. 
+there is no way of knowing which balloon is bad or good. 
+Enjoy!
 '''
+#Grade on assignment: 95%
 from graphics import *
 from time import *
 import random
